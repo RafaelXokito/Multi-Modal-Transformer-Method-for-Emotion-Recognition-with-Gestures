@@ -1,0 +1,7 @@
+Test Batch number: 000, Test: Loss: 0.1952, Accuracy: 0.9688
+Test Batch number: 001, Test: Loss: 0.2022, Accuracy: 1.0000
+Test Batch number: 002, Test: Loss: 0.3124, Accuracy: 0.9375
+Test Batch number: 003, Test: Loss: 0.5757, Accuracy: 0.7500
+Test Batch number: 004, Test: Loss: 0.3142, Accuracy: 0.9062
+Test Batch number: 005, Test: Loss: 0.3806, Accuracy: 0.8750
+Test accuracy : 0.907608695652174

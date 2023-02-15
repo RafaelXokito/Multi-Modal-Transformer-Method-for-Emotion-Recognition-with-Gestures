@@ -1,0 +1,282 @@
+<html>
+
+<head>
+<title>rbg's home page</title>
+<style type="text/css" media="screen">
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p,
+blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em,
+font, img, ins, kbd, q, s, samp, small, strike, strong, sub, tt, var, dl, dt,
+dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot,
+thead, tr, th, td {
+  border: 0pt none;
+  font-family: inherit;
+  font-size: 100%;
+  font-style: inherit;
+  font-weight: inherit;
+  margin: 0pt;
+  outline-color: invert;
+  outline-style: none;
+  outline-width: 0pt;
+  padding: 0pt;
+  vertical-align: baseline;
+}
+
+a {
+  color: #1772d0;
+  text-decoration:none;
+}
+
+a:focus, a:hover {
+  color: #f09228;
+  text-decoration:none;
+}
+
+a.paper {
+  font-weight: bold;
+  font-size: 12pt;
+}
+
+b.paper {
+  font-weight: bold;
+  font-size: 12pt;
+}
+
+* {
+  margin: 0pt;
+  padding: 0pt;
+}
+
+body {
+  position: relative;
+  margin: 3em auto 2em auto;
+  width: 800px;
+  font-family: Lato, Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  background: #eee;
+}
+
+h2 {
+  font-family: Lato, Verdana, Helvetica, sans-serif;
+  font-size: 15pt;
+  font-weight: 700;
+}
+
+h4 {
+  font-family: Lato, Verdana, Helvetica, sans-serif;
+  font-size: 13pt;
+  font-weight: 700;
+}
+
+h3 {
+  font-family: Lato, Verdana, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+strong {
+  font-family: Lato, Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+ul {
+  list-style: circle;
+}
+
+img {
+  border: none;
+}
+
+li {
+  padding-bottom: 0.5em;
+  margin-left: 1.4em;
+}
+
+strong, b {
+	font-weight:bold;
+}
+
+em, i {
+	font-style:italic;
+}
+
+div.section {
+  clear: both;
+  margin-bottom: 1.5em;
+  background: #eee;
+}
+
+div.spanner {
+  clear: both;
+}
+
+div.paper {
+  clear: both;
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+  border: 1px solid #ddd;
+  background: #fff;
+  padding: 1em 1em 1em 1em;
+}
+
+div.paper div {
+  padding-right: 230px;
+}
+
+div.paper div.wide {
+  padding-right: 0px;
+}
+
+img.paper {
+  margin-bottom: 0.5em;
+  float: right;
+  width: 200px;
+}
+
+span.blurb {
+  font-style:italic;
+  display:block;
+  margin-top:0.75em;
+  margin-bottom:0.5em;
+}
+
+pre, code {
+  font-family: 'Lucida Console', 'Andale Mono', 'Courier', monospaced;
+  margin: 1em 0;
+  padding: 0;
+}
+
+div.paper pre {
+  font-size: 0.9em;
+}
+
+</style>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7953909-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript" src="js/hidebib.js"></script>
+
+<link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic"
+ rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<div style="margin-bottom: 1em; border: 1px solid #ddd; background-color: #fff; padding: 1em; height: 200px;">
+  <div style="margin: 0 auto; width: 70%; line-height: 130%;">
+    <img title="rbg" style="float: right; padding-right: .5em; height: 200px;" src="images/rbg-small.jpg" />
+    <div style="padding-left: 1em; vertical-align: top; height: 250px;">
+      <span style="font-size: 16pt; line-height: 130%;">Ross Girshick (<span style="font-family: 'Lucida Console', 'Andale Mono', 'Courier', monospaced;">rbg</span>)</span><br />
+      <span>Research Scientist</span><br />
+      <span>Facebook AI Research (FAIR)</span>
+      <br />
+      <span>
+      <a href="mailto:ross.girshick@gmail.com" target="_blank">email</a> &nbsp;/&nbsp;
+      <a href="https://arxiv.org/find/cs/1/au:+Girshick_R/0/1/0/all/0/1" target="_blank">arXiv</a> &nbsp;/&nbsp;
+      <a href="https://scholar.google.com/citations?hl=en&user=W8VIEZgAAAAJ&pagesize=1000&sortby=pubdate" target="_blank">Google scholar</a>
+      </span>
+    </div>
+  </div>
+</div>
+
+<div style="clear: both;"><!-- page div -->
+
+<div class="section">
+<h2>Research</h2>
+  <div class="paper">
+    I'm interested in algorithms for <strong>visual perception</strong>
+    (<em>object recognition, localization, segmentation, pose
+    estimation, ...</em>) and <strong>representation learning</strong>
+    (<em>pre-training networks using strong supervision, weak
+    supervision, or no supervision at all</em>). My work explores
+    topics in computer vision and machine/deep/statistical learning.
+  </div>
+</div>
+
+<div class="section">
+<h2>About me / bio</h2>
+  <div class="paper">
+    Ross Girshick is a research scientist at Facebook AI Research
+    (FAIR), working on computer vision and machine learning. He
+    received a PhD in computer science in 2012 from the University
+    of Chicago while working with Pedro Felzenszwalb. Prior to
+    joining FAIR, Ross was a researcher at Microsoft Research and
+    a postdoc at the University of California, Berkeley, where he
+    was advised by Jitendra Malik and Trevor Darrell. His interests
+    include instance-level object understanding and representation
+    learning using various forms of supervision, including unsupervised
+    learning.  He received the 2017 PAMI Young Researcher Award,
+    the 2017 and 2021 PAMI Mark Everingham Prizes for his open
+    source software contributions.  Ross is well-known for developing
+    the R-CNN (Region-based Convolutional Neural Network) approach
+    to object detection, and, in 2017, Ross received the Marr Prize
+    at ICCV for "Mask R-CNN". Outside of research, Ross is usually
+    rock climbing and trying to send his latest project.
+  </div>
+</div>
+
+<!-- I left this here just in case you bothered to look for it.
+<div class="section">
+  <h3>I'm on the faculty job market</h3><a href="https://dl.dropboxusercontent.com/s/hswkdta7pmxhqvv/cv.pdf?dl=0">cv</a> / <a href="https://dl.dropboxusercontent.com/s/ip1nxlff8v8ssgi/research.pdf?dl=0">research statement</a> / <a href="https://dl.dropboxusercontent.com/s/g4p52puyfx4wciz/teaching.pdf?dl=0">teaching statement</a>
+  / <a href="http://scholar.google.com/citations?user=W8VIEZgAAAAJ&hl=en&oi=ao">google scholar</a>
+</div>
+-->
+
+<!--- TEMPLATE
+<div class="paper" id="X">
+  <img class="paper" title="X" src="images/X.png" />
+  <div>
+    <a class="paper" onclick="_gaq.push(['_trackEvent', 'Pub', 'Download', 'X-eccv-14']);" href="papers/X.pdf">X</a><br />
+    <strong>Ross Girshick</strong> <br />
+    European Conference on Computer Vision (ECCV), 2014<br />
+    <a shape="rect" href="javascript:toggleabs('X')" class="toggleabs">abstract</a> /
+    <a shape="rect" href="javascript:togglebib('X')" class="togglebib">bibtex</a>
+    <pre xml:space="preserve">
+@inproceedings{X,
+  Author    = {X},
+  Title     = {X},
+  Booktitle = {Proceedings of the European
+               Conference on Computer Vision ({ECCV})},
+  Year      = {2014}}
+    </pre>
+    <span class="blurb">X</span>
+  </div>
+  <div class="spanner"></div>
+</div>
+-->
+
+<div class="section">
+
+<h2><a href="https://scholar.google.com/citations?hl=en&user=W8VIEZgAAAAJ&pagesize=1000&sortby=pubdate" target="_blank">Publications and tech reports on Google scholar</a></h2>
+
+<p>
+<br />
+<b>Journal reviewing note:</b> Please do not invite me to review unless you have asked me via a personal message beforehand (though I will most likely decline). I receive many unsolicited requests per week, which I simply delete without reading due to the volume.
+</p>
+
+</div>
+
+</div><!-- close page div -->
+
+<div style="clear:both;">
+  <br />
+  <p align="right"><font size="2">Erd&ouml;s number = 3 (via two paths)</font></p><br />
+</div>
+
+<script xml:space="preserve" language="JavaScript">
+hideallbibs();
+hideallabs();
+</script>
+
+</body>
+
+</html>

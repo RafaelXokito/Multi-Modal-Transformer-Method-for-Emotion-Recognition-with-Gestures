@@ -1,0 +1,31 @@
+Test Batch number: 000, Test: Loss: 1.4056, Accuracy: 0.4688
+Test Batch number: 001, Test: Loss: 1.6523, Accuracy: 0.4375
+Test Batch number: 002, Test: Loss: 1.6823, Accuracy: 0.3750
+Test Batch number: 003, Test: Loss: 1.5678, Accuracy: 0.4688
+Test Batch number: 004, Test: Loss: 1.4631, Accuracy: 0.2812
+Test Batch number: 005, Test: Loss: 1.4891, Accuracy: 0.3750
+Test Batch number: 006, Test: Loss: 1.5590, Accuracy: 0.4375
+Test Batch number: 007, Test: Loss: 1.6112, Accuracy: 0.1875
+Test Batch number: 008, Test: Loss: 1.4854, Accuracy: 0.4062
+Test Batch number: 009, Test: Loss: 1.4502, Accuracy: 0.3125
+Test Batch number: 010, Test: Loss: 1.2287, Accuracy: 0.5625
+Test Batch number: 011, Test: Loss: 1.6268, Accuracy: 0.3438
+Test Batch number: 012, Test: Loss: 1.3943, Accuracy: 0.4688
+Test Batch number: 013, Test: Loss: 1.4338, Accuracy: 0.5625
+Test Batch number: 014, Test: Loss: 1.5365, Accuracy: 0.4062
+Test Batch number: 015, Test: Loss: 1.6639, Accuracy: 0.3438
+Test Batch number: 016, Test: Loss: 1.6475, Accuracy: 0.4062
+Test Batch number: 017, Test: Loss: 1.7062, Accuracy: 0.4688
+Test Batch number: 018, Test: Loss: 1.3680, Accuracy: 0.4688
+Test Batch number: 019, Test: Loss: 2.0439, Accuracy: 0.4000
+Test Accuracy : 0.40946166399641487
+
+Test Accuracy Per Class : 
+anger - 23.75%
+contempt - 34.375%
+disgust - 22.0%
+fear - 17.2414%
+happy - 85.2941%
+neutral - 47.1698%
+sad - 10.7692%
+surprise - 51.1364%
