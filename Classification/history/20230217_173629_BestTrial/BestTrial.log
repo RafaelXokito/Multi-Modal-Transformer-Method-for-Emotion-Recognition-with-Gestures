@@ -1,0 +1,4 @@
+Best parameters: {'learning_rate': 0.0014023174595669506, 'momentum': 0.30698090264058187, 'optimizer': <class 'torch.optim.sgd.SGD'>, 'weight_decay': 1.555451132658013e-05, 'batch_size': 32}
+
+Best accuracy: 0.21043165489066418
+

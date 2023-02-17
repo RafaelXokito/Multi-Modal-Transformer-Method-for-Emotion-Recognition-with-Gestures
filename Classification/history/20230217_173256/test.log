@@ -1,0 +1,46 @@
+Test Batch number: 000, Test: Loss: 2.1114, Accuracy: 0.0625
+Test Batch number: 001, Test: Loss: 2.0676, Accuracy: 0.1875
+Test Batch number: 002, Test: Loss: 2.1104, Accuracy: 0.1250
+Test Batch number: 003, Test: Loss: 2.1312, Accuracy: 0.1250
+Test Batch number: 004, Test: Loss: 1.9862, Accuracy: 0.1250
+Test Batch number: 005, Test: Loss: 2.3229, Accuracy: 0.1250
+Test Batch number: 006, Test: Loss: 2.1537, Accuracy: 0.0000
+Test Batch number: 007, Test: Loss: 2.1495, Accuracy: 0.0000
+Test Batch number: 008, Test: Loss: 2.1089, Accuracy: 0.1875
+Test Batch number: 009, Test: Loss: 2.1324, Accuracy: 0.0625
+Test Batch number: 010, Test: Loss: 2.0070, Accuracy: 0.1250
+Test Batch number: 011, Test: Loss: 2.1024, Accuracy: 0.2500
+Test Batch number: 012, Test: Loss: 2.1931, Accuracy: 0.0625
+Test Batch number: 013, Test: Loss: 2.2081, Accuracy: 0.0000
+Test Batch number: 014, Test: Loss: 2.1258, Accuracy: 0.1250
+Test Batch number: 015, Test: Loss: 2.2793, Accuracy: 0.0625
+Test Batch number: 016, Test: Loss: 2.0688, Accuracy: 0.1875
+Test Batch number: 017, Test: Loss: 2.3092, Accuracy: 0.1250
+Test Batch number: 018, Test: Loss: 2.2309, Accuracy: 0.2500
+Test Batch number: 019, Test: Loss: 2.2896, Accuracy: 0.1250
+Test Batch number: 020, Test: Loss: 2.0855, Accuracy: 0.0625
+Test Batch number: 021, Test: Loss: 2.2534, Accuracy: 0.1250
+Test Batch number: 022, Test: Loss: 2.1178, Accuracy: 0.1250
+Test Batch number: 023, Test: Loss: 2.1517, Accuracy: 0.1250
+Test Batch number: 024, Test: Loss: 2.0510, Accuracy: 0.3125
+Test Batch number: 025, Test: Loss: 2.2930, Accuracy: 0.0625
+Test Batch number: 026, Test: Loss: 2.3018, Accuracy: 0.0625
+Test Batch number: 027, Test: Loss: 2.0296, Accuracy: 0.0625
+Test Batch number: 028, Test: Loss: 2.1580, Accuracy: 0.1250
+Test Batch number: 029, Test: Loss: 2.1240, Accuracy: 0.1875
+Test Batch number: 030, Test: Loss: 2.1875, Accuracy: 0.0000
+Test Batch number: 031, Test: Loss: 2.1632, Accuracy: 0.0625
+Test Batch number: 032, Test: Loss: 2.1866, Accuracy: 0.1875
+Test Batch number: 033, Test: Loss: 2.1928, Accuracy: 0.1875
+Test Batch number: 034, Test: Loss: 2.1567, Accuracy: 0.1667
+Test Accuracy : 0.11870503607842563
+
+Test Accuracy Per Class : 
+anger - 8.3333%
+contempt - 0.0%
+disgust - 2.1739%
+fear - 21.1538%
+happy - 5.2632%
+neutral - 25.2632%
+sad - 29.3103%
+surprise - 2.5641%
